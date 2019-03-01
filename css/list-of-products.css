@@ -1,0 +1,26 @@
+.center{text-align: center}
+.right{ text-align: right}
+
+body {font-family: Arial, Helvetica, sans-serif}
+
+table{ width: 50%;
+    background-color: bisque;
+}
+table,tr, td {border: 2px solid black;
+border-collapse: collapse}
+
+
+.heading{border: 3px solid black;
+    border-collapse: collapse;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif ;  
+    font-size: 25px;
+    text-align: center;    
+}
+
+.right{text-align: right;
+    /* padding-right: 8px */
+}
+
+.leftPad{padding-left: 8px}
+
